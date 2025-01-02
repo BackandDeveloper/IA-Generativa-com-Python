@@ -10,22 +10,29 @@ Fácil de expandir e personalizar conforme necessário.
 ```
 
 ## Como Usar
+```
 Clone este repositório para o seu ambiente local.
-
+```
 Certifique-se de ter o Python instalado em sua máquina.
-
+```
 Instale a biblioteca openai utilizando o comando pip install openai.
-
+```
 Defina sua chave de API da OpenAI no código.
-
+```
 Execute o script chatbot.py para iniciar o chatbot.
-
+```
 bash
+```
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
+```
 cd SeuRepositorio
+```
 pip install openai
+```
 python chatbot.py
-Estrutura do Código
+```
+```
+ | Estrutura do Código
 O código principal está no arquivo chatbot.py.
 
 ## Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
