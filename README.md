@@ -31,7 +31,6 @@ O código principal está no arquivo chatbot.py.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
 
 Contato
-Para mais informa
-ções, entre em contato pelo 
+Para mais informações, entre em contato pelo 
 
-e-mail: seu-email@example.com
+e-mail: henrique.pedro62@gmail.com
