@@ -1,12 +1,12 @@
-Chatbot IA Generativa
+## Chatbot IA Generativa
 Este projeto é um chatbot simples desenvolvido em Python que utiliza a API da OpenAI para gerar respostas baseadas nas perguntas dos usuários.
 
-Funcionalidades
+## Funcionalidades
 Responde a perguntas dos usuários utilizando a IA generativa da OpenAI.
 
 Fácil de expandir e personalizar conforme necessário.
 
-Como Usar
+## Como Usar
 Clone este repositório para o seu ambiente local.
 
 Certifique-se de ter o Python instalado em sua máquina.
@@ -25,9 +25,9 @@ python chatbot.py
 Estrutura do Código
 O código principal está no arquivo chatbot.py.
 
-Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
+## Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
 
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
 
 Contato
