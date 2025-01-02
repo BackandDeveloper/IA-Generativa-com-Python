@@ -2,10 +2,12 @@
 Este projeto é um chatbot simples desenvolvido em Python que utiliza a API da OpenAI para gerar respostas baseadas nas perguntas dos usuários.
 
 ## Funcionalidades
+```
 Responde a perguntas dos usuários utilizando a IA generativa da OpenAI.
-
+```
 Fácil de expandir e personalizar conforme necessário.
-
+```
+```
 ## Como Usar
 Clone este repositório para o seu ambiente local.
 
