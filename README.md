@@ -46,7 +46,7 @@ O código principal está no arquivo chatbot.py.
  Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
 
 ## 👥| Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
+Contribuições são bem-vindas! Sinta-se à vontade para me mandar um e-mail solicitando para se tornar um contribuidor, ou possíveis melhorias! 
 
 ## 📲| Contato
 Para mais informações, entre em contato pelo 
