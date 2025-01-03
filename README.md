@@ -22,17 +22,22 @@ Defina sua chave de API da OpenAI no código.
 ```
 Execute o script chatbot.py para iniciar o chatbot.
 ```
-bash
+Execute o script chatbot.py para iniciar o chatbot:
+
 ```
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
 ```
-cd SeuRepositorio
+Instale a biblioteca openai utilizando o comando:
+
 ```
 pip install openai
 ```
+Execute o script chatbot.py para iniciar o chatbot:
+
+```
 python chatbot.py
 ```
-```
+
 ## 🗂️| Estrutura do Código
 O código principal está no arquivo chatbot.py.
 
