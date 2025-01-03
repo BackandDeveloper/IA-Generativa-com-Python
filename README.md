@@ -43,12 +43,13 @@ python chatbot.py
 
 ## 🗂️| Estrutura do Código
 
+```
 IA-Generativa-com-Python/
 ├── README.md
 ├── chatbot.py
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para me mandar um e-mail solicitando para se tornar um contribuidor, ou possíveis melhorias! 
