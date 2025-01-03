@@ -27,7 +27,7 @@ Execute o script chatbot.py para iniciar o chatbot.
 ```
 git clone https://github.com/SeuUsuario/SeuRepositorio.git
 ```
-Instale a biblioteca openai utilizando o comando:
+ 3️⃣| Instale a biblioteca openai utilizando o comando:
 
 ```
 pip install openai
