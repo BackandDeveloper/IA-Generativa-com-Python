@@ -18,7 +18,7 @@ Clone este repositório para o seu ambiente local.
 ```
 Instale a biblioteca openai utilizando o comando pip install openai.
 ```
-Defina sua chave de API da OpenAI no código.
+ 2️⃣| Defina sua chave de API da OpenAI no código.
 ```
 Execute o script chatbot.py para iniciar o chatbot.
 ```
