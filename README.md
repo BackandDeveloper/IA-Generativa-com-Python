@@ -14,7 +14,7 @@ Fácil de expandir e personalizar conforme necessário.
 ```
 Clone este repositório para o seu ambiente local.
 ```
-Certifique-se de ter o Python instalado em sua máquina.
+ 1️⃣| Certifique-se de ter o Python instalado em sua máquina.
 ```
 Instale a biblioteca openai utilizando o comando pip install openai.
 ```
@@ -33,6 +33,7 @@ Instale a biblioteca openai utilizando o comando:
 pip install openai
 
 ```
+
 Execute o script chatbot.py para iniciar o chatbot:
 
 ```
