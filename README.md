@@ -31,6 +31,7 @@ Instale a biblioteca openai utilizando o comando:
 
 ```
 pip install openai
+
 ```
 Execute o script chatbot.py para iniciar o chatbot:
 
@@ -41,7 +42,7 @@ python chatbot.py
 ## 🗂️| Estrutura do Código
 O código principal está no arquivo chatbot.py.
 
-## Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
+ Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
 
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
