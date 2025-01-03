@@ -34,7 +34,7 @@ pip install openai
 
 ```
 
-Execute o script chatbot.py para iniciar o chatbot:
+ 5️⃣| Execute o script chatbot.py para iniciar o chatbot:
 
 ```
 python chatbot.py
