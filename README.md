@@ -1,4 +1,4 @@
-## 💡| Chatbot IA Generativa 💻
+## 💡| Chatbot IA Generativa 💻🌐
 Este projeto é um chatbot simples desenvolvido em Python que utiliza a API da OpenAI para gerar respostas baseadas nas perguntas dos usuários.
 
 ## 📑| Funcionalidades
