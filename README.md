@@ -10,7 +10,7 @@ Fácil de expandir e personalizar conforme necessário.
 ```
 
 
-## Como Usar
+## 📋| Como Usar
 ```
 Clone este repositório para o seu ambiente local.
 ```
