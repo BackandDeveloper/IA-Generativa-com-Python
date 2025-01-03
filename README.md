@@ -4,10 +4,11 @@ Este projeto é um chatbot simples desenvolvido em Python que utiliza a API da O
 ## Funcionalidades
 ```
 Responde a perguntas dos usuários utilizando a IA generativa da OpenAI.
-
-Fácil de expandir e personalizar conforme necessário.
-
 ```
+```
+Fácil de expandir e personalizar conforme necessário.
+```
+
 
 ## Como Usar
 ```
