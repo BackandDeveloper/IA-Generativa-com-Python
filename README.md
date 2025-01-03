@@ -38,12 +38,17 @@ pip install openai
 
 ```
 python chatbot.py
+
 ```
 
 ## 🗂️| Estrutura do Código
-O código principal está no arquivo chatbot.py.
 
- Ele contém uma função gerar_resposta que utiliza a API da OpenAI para gerar respostas e uma função main que gerencia a interação com o usuário.
+IA-Generativa-com-Python/
+├── README.md
+├── chatbot.py
+├── requirements.txt
+└── .gitignore
+
 
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para me mandar um e-mail solicitando para se tornar um contribuidor, ou possíveis melhorias! 
